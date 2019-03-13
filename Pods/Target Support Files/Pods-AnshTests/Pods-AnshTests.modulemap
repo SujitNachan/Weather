@@ -1,0 +1,6 @@
+framework module Pods_AnshTests {
+  umbrella header "Pods-AnshTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
